@@ -1,1 +1,2 @@
-# Build-a-linux-system-by-yourself
+＃自己建造一个Linux系统
+想了很久，想从一个Linux内核一步一步构造一个属于自己的操作系统。由于种种原因都没行动起来，今天开始一点一点来实现。
